@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codikip
 - 👀 I’m interested in discord bot develoupment.
-- 🌱 I’m currently learning discord bot develoupment.
+- 🌱 I’m currently learning discord bot develoupment via DBS.
 - 💞️ I’m looking to collaborate on discord bot develoupment.
 - 📫 How to reach me: discord, Codik_ip@1995
 
